@@ -1,6 +1,6 @@
 # Point Spread Prediction
-Supervised learning model
- Predict soccer match point spread for winning
+A supervised learning approach to predict a given soccer match point spread 
+
  Make sure there isn't too much of a distribution disparity between tie/win/and loss
  Clearing columns that are multicoliniar or irrelevant to the analysis (i.e. player name)
  Join the dataframes
