@@ -1,4 +1,4 @@
-# SupervisedLearning
+# Point Spread Prediction
 Supervised learning model
  Predict soccer match point spread for winning
  Make sure there isn't too much of a distribution disparity between tie/win/and loss
